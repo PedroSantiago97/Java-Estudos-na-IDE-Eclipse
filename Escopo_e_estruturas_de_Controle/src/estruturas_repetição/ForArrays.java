@@ -6,6 +6,6 @@ public class ForArrays {
 		for(int c = 0;c < 4;c++) {
 			System.out.println(comida[c]+" ");
 		}
-		System.out.println("Assim que se faz um Hambureger!");
+		System.out.println("Assim que se faz um Hamburguer!");
 	}
 }
