@@ -27,6 +27,6 @@ public class While {
 	}
 	/*private static double valorAleatorio() {
 		return ThreadLocalRandom.current().nextDouble(2,8);
-	}*/
+	}*/ // pode-se usar tambem, uma função para chamar esse recurso da biblioteca
 
 }
