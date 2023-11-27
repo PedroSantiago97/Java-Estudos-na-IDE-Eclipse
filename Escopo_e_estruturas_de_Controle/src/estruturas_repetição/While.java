@@ -7,6 +7,7 @@ public class While {
 		double mesada = 50.0;
 		while(mesada>0) {
 			Double valorDoce = ThreadLocalRandom.current().nextDouble(2,8);
+			//Double valorDoce = valorAleatorio();
 			if (mesada<2) {
 				break;
 			}
